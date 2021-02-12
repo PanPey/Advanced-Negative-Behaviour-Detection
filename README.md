@@ -13,6 +13,9 @@ Further the main part of our project  i.e. toxicity classifier (classification o
 •	scikit-learn, a) to choose an appropriate ML model- logistic regression in our case for solving a classification problem.
              b) CountVectorizer- to count the number of times a word occurs.
              
+             
+             
+             
 
 References
 
