@@ -1,7 +1,7 @@
-ACCESS_TOKEN = "861299900541276161-gjkd29nBjPIluwhRtX3HQt0Zg0Kf6M6"
+ACCESS_TOKEN = "****************************************************"
 
-ACCESS_TOKEN_SECRET = "i5lrLuCE5F10YAhyAA5JfJsbZpyw0X8Cyez90dGk1HTXT"
+ACCESS_TOKEN_SECRET = "*********************************************"
 
-CONSUMER_KEY = "gPqpmQ9Lp4x9JpQpiMx0ugbOL"
+CONSUMER_KEY = "****************************************************L"
 
-CONSUMER_SECRET = "g9y62Myf3AStgjLekyWMYh1r0UDiPXbP5xiLdV1Uh2DHxVHVVv"
+CONSUMER_SECRET = "*************************************************"
