@@ -1,6 +1,6 @@
 # Advanced-Negative-Behaviour-Detection
-Machine Learning is one of the most progressing fields in the world right now. We using the same including some other python libraries have developed a model which will dynamically fetch the recent tweets from the twitter about the two popular celebrities in American politics Donald Trump and Joe Biden. We will be classifying the tweets on the basis of negative, positive and neutral tweets and will further compare them and graphically visualize them.
-Further the main part of our project  i.e. toxicity classifier (classification of negative comments) runs where we classify the created dataset into six categories using machine learning algorithms.
+Machine Learning is one of the most progressing fields in the world right now. Using the ML models including some other python libraries we have developed a model which will dynamically fetch the recent tweets from the twitter about the two popular celebrities in American politics Donald Trump and Joe Biden. We will be classifying the tweets on the basis of negative, positive and neutral tweets and will further compare them and graphically visualize them.
+Further the main part of this project is toxicity classification (classification of negative comments) runs where we classify the created dataset into six categories using machine learning algorithms.
 
   
   Libraries imported and their uses:
